@@ -22,3 +22,4 @@
 ## TO DO
 
 - [x] run Kube-score ✅, regula ✅, popeye (bugged for latest k8s, to rerun), polaris ✅ on the configs/cluster
+- [ ] remove references to Manupulse and set it as a param
